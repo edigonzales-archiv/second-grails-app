@@ -1,0 +1,1 @@
+CREATE SCHEMA grails_dev_gdi_knoten;
